@@ -1,0 +1,1 @@
+It will be Vue.js SPA 
